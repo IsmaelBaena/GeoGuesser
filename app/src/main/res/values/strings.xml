@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">GeoGuesser</string>
+    <string name="titulo">Geo Guesser</string>
+    <string name="hint">Hint</string>
+
+    <string name="question_flag">Which country this flag belongs?</string>
+    <string name="question_animal">Where this animal lives?</string>
+
+    <string name="francia">France</string>
+    <string name="australia">Australia</string>
+    <string name="espana">Spain</string>
+    <string name="EEUU">EEU</string>
+    <string name="UK">UK</string>
+    <string name="china">China</string>
+    <string name="japon">Japan</string>
+    <string name="russia">Russia</string>
+
+    <string name="h1">The place with the deadliest animals</string>
+    <string name="h2">The biggest country in the world</string>
+    <string name="h3">Flamenquito</string>
+    <string name="h4">Guns are allowed here</string>
+    <string name="h5">The spiders are so poisonous here</string>
+    <string name="h6">I like Vodka</string>
+    <string name="h7">Otakulandia</string>
+    <string name="h8">I like tea</string>
+    <string name="h9">We like paella and "Bocadillos de calamares"</string>
+    <string name="h10">Oui oui bagette</string>
+
+
+
+</resources>

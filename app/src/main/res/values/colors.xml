@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="has_respondido_bien">#01DF01</color>
+    <color name="has_respondido_mal">#FF0000</color>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="background_color">#7DAC80</color>
+    <color name="button_default">#C8C8C5</color>
+    <color name="palabras">#096A81</color>
+
+</resources>
